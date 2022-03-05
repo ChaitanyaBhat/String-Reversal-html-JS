@@ -1,4 +1,4 @@
-# String - Reversal 
+# String - Reversal:
 
 A given string can be reversed easily using HTML5 and Vanilla JavaScript. One such illustration is here.
 
